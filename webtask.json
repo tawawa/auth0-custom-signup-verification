@@ -1,0 +1,16 @@
+{
+  "title": "Signup with Verification",
+  "name": "auth0-custom-signup-verification",
+  "version": "1.0.0",
+  "author": "arcseldon",
+  "description": "Email verification step introduced as part of Signup",
+  "type": "application",
+  "repository": "https://github.com/tawawa/auth0-custom-signup-verification.git",
+  "keywords": [
+    "auth0",
+    "email",
+    "verification",
+    "signup",
+    "webtask"
+  ]
+}
